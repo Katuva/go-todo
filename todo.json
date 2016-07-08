@@ -1,0 +1,15 @@
+{
+    "todos": [
+        {
+            "context": [
+                "@work"
+            ],
+            "tags": [
+                "+work-work-work"
+            ],
+            "complete": false,
+            "content": "Need to finish the todo",
+            "due": ""
+        }
+    ]
+}
